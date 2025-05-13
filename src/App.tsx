@@ -60,7 +60,7 @@ function AppRoutes() {
 
 function App() {
   // Google OAuth client ID would typically come from an environment variable
-  const GOOGLE_CLIENT_ID = "1057753927591-vrhr4cbrr8bb8fcob2a9p5q2hoqvj88q.apps.googleusercontent.com";
+  const GOOGLE_CLIENT_ID = "1057753927591-054dh76udopfdn3tjtepujv9klo8f5ne.apps.googleusercontent.com";
 
   return (
     <GoogleOAuthProvider clientId={GOOGLE_CLIENT_ID}>
